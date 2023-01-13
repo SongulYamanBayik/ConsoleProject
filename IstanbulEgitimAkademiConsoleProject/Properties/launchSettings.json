@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "IstanbulEgitimAkademiConsoleProject": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
